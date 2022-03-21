@@ -3,12 +3,16 @@ templateKey: index-page
 title: LES BUS
 image: /img/visualisation.jpg
 heading: ljhgkg
-subheading: // Tiers-Lieu de quartier //
+subheading: Tiers-Lieu de quartier
 mainpitch:
-  title: Le projet
-  description: Le Tiers-Lieu LES BUS est un lieu protéiforme où se rencontrer,
-    créer du lien social, se reposer, se divertir, se nourrir, travailler,
-    créer, écouter de la musique, voir un spectacle…
+  title: qui sommes-nous ?
+  description: >
+    C’est l’histoire d’une envie, un peu folle dans nos quartiers un peu
+    excentrés de la Belle Endormie. 
+
+    L’envie d’un lieu où tous les publics de tous les âges puissent se rencontrer, se divertir, se reposer, se cultiver et cultiver la terre et surtout chercher ensemble comment mieux vivre. 
+
+    L’envie que ce soit un lieu de partage et de découverte, d’initiative et de générosité.
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that

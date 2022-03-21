@@ -1,16 +1,14 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/saint-augustin.png
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup. Test
+title: LES BUS
+image: /img/visualisation.jpg
+heading: ljhgkg
+subheading: // Tiers-Lieu de quartier //
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Le projet
+  description: Le Tiers-Lieu LES BUS est un lieu protéiforme où se rencontrer,
+    créer du lien social, se reposer, se divertir, se nourrir, travailler,
+    créer, écouter de la musique, voir un spectacle…
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
